@@ -12,7 +12,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hacknorith&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hackthism&show_icons=true&theme=tokyonight" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacknorith&layout=compact&theme=tokyonight" width="45%"/>
 </p>
 
